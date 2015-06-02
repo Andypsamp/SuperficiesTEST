@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Alex Urcera
+ * @author VfromVendetta
  */
 public class logicTest {
     
