@@ -11,8 +11,7 @@ import javax.swing.JOptionPane;
 import static superficies.logic.calcular;
 
 /**
- * commit añadido tambien
- * @author mpereirasalgado
+ * @author VfromVendetta
  */
 public class Visualizar {
 
